@@ -1,7 +1,8 @@
- {
+[
+  {
     "Name": "neverlose",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/neverlose/123.1.zip",
     "FileName": "123.1.zip",
     "ExePath": "neverlose-server.exe",
@@ -11,7 +12,7 @@
   {
     "Name": "ev0lve",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "loader.exe",
@@ -20,7 +21,7 @@
   {
     "Name": "primordial",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/prim.zip",
     "FileName": "primo.zip",
     "ExePath": "loader.exe",
@@ -29,7 +30,7 @@
   {
     "Name": "legendware",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
@@ -38,7 +39,7 @@
   {
     "Name": "gamesense",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe",
@@ -47,7 +48,7 @@
   {
     "Name": "onetap",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
@@ -56,7 +57,7 @@
   {
     "Name": "fatality (siniy)",
     "Game": "csgo",
-    "GameId": "4465480:csgo",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ft.zip",
     "FileName": "ft.zip",
     "ExePath": "loader.exe",

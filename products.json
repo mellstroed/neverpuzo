@@ -2,8 +2,8 @@
   {
     "Name": "neverlose",
     "Game": "csgo",
-    "DownloadUrl": "https://drive.google.com/file/d/1kzF3WL0YvHqgUurWcYKG_CUad7-80xh6/view",
-    "FileName": "123.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/untagged-7f309883b525f945196f/123.1.zip",
+    "FileName": "123.1.zip",
     "ExePath": "neverlose-server.exe",
     "Type": "neverlose"
   }

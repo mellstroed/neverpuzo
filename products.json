@@ -6,7 +6,7 @@
     "DownloadUrl": "",
     "FileName": "sf.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/sn0w.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/sn0w.png"
   },
   {
     "Name": "neverlose",
@@ -15,7 +15,7 @@
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/neverlose/123.1.zip",
     "FileName": "123.1.zip",
     "ExePath": "neverlose-server.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/sn0w.png",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/neverlose.png",
     "Type": "neverlose"
   },
   {
@@ -25,7 +25,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ev0.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png"
   },
   {
     "Name": "primordial",
@@ -34,7 +34,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/prim.zip",
     "FileName": "primo.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/prim.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png"
   },
   {
     "Name": "legendware",
@@ -43,7 +43,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/lw.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png"
   },
   {
     "Name": "gamesense",
@@ -52,7 +52,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/gs.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png"
   },
   {
     "Name": "onetap",
@@ -61,7 +61,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ot.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
   },
   {
     "Name": "fatality (siniy)",
@@ -70,6 +70,6 @@
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ft.zip",
     "FileName": "ft.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ft.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png"
   }
 ]

@@ -6,9 +6,6 @@
 ### Features
 - 🎮 Multi-cheat support for CS:GO
 - 🚀 Auto-download and injection system
-- 🎨 Custom theme system (Blue, Purple, Green, Red, Orange)
-- 🖼️ Modern and Retro UI styles
-- 🔧 Opacity control (30-100%)
 - 📦 Single-file executable
 
 ### Supported Cheats

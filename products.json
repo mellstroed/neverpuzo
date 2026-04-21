@@ -31,7 +31,7 @@
     "Name": "ev0lve",
     "Game": "csgo",
     "GameId": "4465480:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ev0.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/ev0/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png"
@@ -40,16 +40,16 @@
     "Name": "primordial",
     "Game": "csgo",
     "GameId": "4465480:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/prim.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/primordial/prim.zip",
     "FileName": "primo.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://github.com/mellstroed/neverpuzo/blob/main/png/clarity.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png"
   },
   {
     "Name": "legendware",
     "Game": "csgo",
     "GameId": "4465480:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/lw.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/legendware/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png"
@@ -58,7 +58,7 @@
     "Name": "gamesense",
     "Game": "csgo",
     "GameId": "4465480:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/gs.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/gamesense/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png"
@@ -67,7 +67,7 @@
     "Name": "onetap",
     "Game": "csgo",
     "GameId": "4465480:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ot.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/onetap/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
@@ -76,7 +76,7 @@
     "Name": "fatality (siniy)",
     "Game": "csgo",
     "GameId": "4465480:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ft.zip",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/fatalitysiniy/ft.zip",
     "FileName": "ft.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png"

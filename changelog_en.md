@@ -11,28 +11,22 @@
 - Font selection
 
 ### Supported Cheats
-- **Clarity** - Lightweight injection
+- **Clarity** - Cool movement cheat
 - **Kamidere** - Fast and stable
-- **NeverLose** - Full server support with logo patching
-- **Ev0lve** - Classic cheat
-- **Primordial** - Advanced features
-- **Legendware** - Legendary performance
-- **GameSense** - Premium experience
-- **OneTap** - Quick and reliable
-- **OneTap v4** - Fourth generation
-- **Fatality (siniy)** - Ultimate power
-- **bob** - Simple and effective
-- **Monolith** - Powerful cheat
-- **FURRYWARE** - Unique cheat
-- **mware** - Minimalist
-- **Havoc** - Aggressive rage
-- **sosality** - Balanced
-- **vivo 2.5** - Improved stability
-- **interwebz** - Modern interface
-- **spermaware** - Comprehensive features
-- **naval** - Reliable
-- **ArcticTech** - Technical features
-- **cuteflow** - Stylish
+- **NeverLose** - Full server support, lua fix, configs
+- **Ev0lve** - Old discontinued cheat
+- **Primordial** - Beautiful cheat
+- **Legendware** - Legendary paste
+- **GameSense** - $40 invite
+- **OneTap** - onetap
+- **Fatality (siniy)** - blue fatality, has brothers: red, pink
+- **bob** - skebob.vip
+- **FURRYWARE** - furry stuff
+- **Havoc** - defensive flicks
+- **sosality** - brother of blue and red fatality
+- **vivo 2.5** - vivo x300 pro (wave)
+- **spermaware** - raze paste
+- **naval** - alexei navalny
 
 ### Credits
 **Made by:** mellstroed  
@@ -44,8 +38,3 @@
 - More cheat support
 - Performance improvements
 - New themes
-
-
-
-
-press soufi!!!!!!

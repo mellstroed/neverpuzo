@@ -31,8 +31,8 @@
 ### Авторы
 **Создатель:** mellstroed  
 **GitHub:** github.com/mellstroed/neverpuzo  
-**Discord:** soufiw._. 
-**Поддержка:** soufiw._.
+**Discord:** soufiw__ 
+**Поддержка:** soufiw__
 
 ### Планы
 - Поддержка большего количества читов

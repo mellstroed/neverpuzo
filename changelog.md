@@ -1,27 +1,51 @@
-Unfl4gg3d Changelog
+# Unfl4gg3d Changelog
 
-Version 1.0.0 - Initial Release
-**Release Date:** April 2026
+## Версия 1.0.0 - Первый релиз
+**Дата выхода:** Апрель 2026
 
-Features
-- Multi-cheat support for CS:GO
-- Auto-download and injection system
+### Возможности
+- Поддержка множества читов для CS:GO
+- Автоматическая загрузка и инжект система
+- Переключение языка (RU/EN)
+- Темы оформления (Default, Phosphor, Blood, Ice, Mono)
+- Выбор шрифтов
 
-Supported Cheats
-**Clarity** - Lightweight injection  
-**Kamidere** - Fast and stable  
-**NeverLose** - Full server support with logo patching  
-**Ev0lve** - Classic cheat  
-**Primordial** - Advanced features  
-**Legendware** - Legendary performance  
-**GameSense** - Premium experience  
-**OneTap** - Quick and reliable  
-**Fatality (siniy)** - Ultimate power  
+### Поддерживаемые читы
+- **Clarity** - Мувмент чит
+- **Kamidere** - Быстрый и стабильный
+- **NeverLose** - Полная поддержка сервера 
+- **Ev0lve** - Классический чит
+- **Primordial** - Продвинутые функции
+- **Legendware** - Легендарный перформанс
+- **GameSense** - Премиум опыт
+- **OneTap** - Быстрый и надёжный
+- **OneTap v4** - Четвёртое поколение
+- **Fatality (siniy)** - Максимальная мощь
+- **bob** - Простой и эффективный
+- **Monolith** - Мощный чит
+- **FURRYWARE** - Уникальный чит
+- **mware** - Минималистичный
+- **Havoc** - Агрессивный рейдж
+- **sosality** - Сбалансированный
+- **vivo 2.5** - Улучшенная стабильность
+- **interwebz** - Современный интерфейс
+- **spermaware** - Полный набор функций
+- **naval(ный)** - Надёжный
+- **ArcticTech** - Технические функции
+- **cuteflow** - Стильный
 
-Credits
-**made by:** mellstroed  
-**GitHub:** [github.com/mellstroed/neverpuzo](https://github.com/mellstroed/neverpuzo)
----
+### Авторы
+**Создатель:** mellstroed  
+**GitHub:** github.com/mellstroed/neverpuzo  
+**Discord:** soufiw._  
+**Поддержка:** soufiw._
 
-Upcoming Features
-- [ ] More cheat support
+### Планы
+- Поддержка большего количества читов
+- Улучшение производительности
+- Новые темы оформления
+
+
+
+
+НАЖМИ SOUFI!!!!!!!

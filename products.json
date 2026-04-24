@@ -89,5 +89,113 @@
     "FileName": "ft.zip",
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png"
+  },
+  {
+    "Name": "bob",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/bob/bob.zip",
+    "FileName": "bob.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/bob.png"
+  },
+  {
+    "Name": "Monolith",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/monolith/monolith.zip",
+    "FileName": "monolith.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/monolith.png"
+  },
+  {
+    "Name": "FURRYWARE",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/furryware/furryware.zip",
+    "FileName": "furryware.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/furryware.png"
+  },
+  {
+    "Name": "mware",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/mware/mware.zip",
+    "FileName": "mware.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/mware.png"
+  },
+  {
+    "Name": "Havoc",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/havoc/havoc.zip",
+    "FileName": "havoc.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/havoc.png"
+  },
+  {
+    "Name": "sosality",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/sosality/sosality.zip",
+    "FileName": "sosality.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/sosality.png"
+  },
+  {
+    "Name": "vivo 2.5",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/vivo/vivo.zip",
+    "FileName": "vivo.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/vivo.png"
+  },
+  {
+    "Name": "interwebz",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/interwebz/interwebz.zip",
+    "FileName": "interwebz.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/interwebz.png"
+  },
+  {
+    "Name": "spermaware",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/spermaware/spermaware.zip",
+    "FileName": "spermaware.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/spermaware.png"
+  },
+  {
+    "Name": "naval",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/naval/naval.zip",
+    "FileName": "naval.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/naval.png"
+  },
+  {
+    "Name": "ArcticTech",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/arctictech/arctictech.zip",
+    "FileName": "arctictech.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctictech.png"
+  },
+  {
+    "Name": "cuteflow",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/cuteflow/cuteflow.zip",
+    "FileName": "cuteflow.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/cuteflow.png"
   }
 ]

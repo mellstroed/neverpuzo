@@ -80,16 +80,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
   },
-  {
-    "Name": "onetapv4",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "Последняя версия onetap с улучшенной производительностью",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/onetapv4/ot4.zip",
-    "FileName": "ot4.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
-  },
+
   {
     "Name": "fatality (siniy)",
     "Game": "csgo",

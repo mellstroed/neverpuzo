@@ -33,7 +33,7 @@
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/ev0/ev0.zip",
     "FileName": "ev0.zip",
-    "ExePath": "loader.exe",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png"
   },
   {
@@ -41,8 +41,8 @@
     "Game": "csgo",
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/primordial/prim.zip",
-    "FileName": "primo.zip",
-    "ExePath": "loader.exe",
+    "FileName": "prim.zip",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png"
   },
   {
@@ -51,7 +51,7 @@
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/legendware/lw.zip",
     "FileName": "lw.zip",
-    "ExePath": "loader.exe",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png"
   },
   {
@@ -60,7 +60,7 @@
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/gamesense/gs.zip",
     "FileName": "gs.zip",
-    "ExePath": "loader.exe",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png"
   },
   {
@@ -69,7 +69,7 @@
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/onetap/ot.zip",
     "FileName": "ot.zip",
-    "ExePath": "loader.exe",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
   },
   {
@@ -78,7 +78,17 @@
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/fatalitysiniy/ft.zip",
     "FileName": "ft.zip",
-    "ExePath": "loader.exe",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png"
   }
 ]
+[
+  {
+    "Name": "onetapv4",
+    "Game": "csgo",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/onetapv4/ot4.zip",
+    "FileName": "ot4.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
+  },

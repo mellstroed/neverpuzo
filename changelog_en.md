@@ -31,8 +31,8 @@
 ### Credits
 **Made by:** mellstroed  
 **GitHub:** github.com/mellstroed/neverpuzo  
-**Discord:** soufiw._.
-**Support:** soufiw._.
+**Discord:** soufiw__
+**Support:** soufiw__
 
 ### Upcoming Features
 - More cheat support

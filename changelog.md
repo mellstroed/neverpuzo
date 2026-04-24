@@ -21,7 +21,6 @@ Supported Cheats
 Credits
 **made by:** mellstroed  
 **GitHub:** [github.com/mellstroed/neverpuzo](https://github.com/mellstroed/neverpuzo)
-**source by polak aimvarovich**
 ---
 
 Upcoming Features

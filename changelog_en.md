@@ -11,7 +11,6 @@
 - Font selection
 
 ### Supported Cheats
-- **Kamidere** - Fast and stable
 - **NeverLose** - Full server support, lua fix, configs
 - **Ev0lve** - Old discontinued cheat
 - **Primordial** - Beautiful cheat

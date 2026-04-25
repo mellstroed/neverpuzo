@@ -1,15 +1,5 @@
 [
   {
-    "Name": "clarity",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "Lightweight CS:GO cheat with essential features",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/clarity/clarity.zip",
-    "FileName": "clarity.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/clarity.png"
-  },
-  {
     "Name": "kamidere",
     "Game": "csgo",
     "GameId": "4465480:csgo",

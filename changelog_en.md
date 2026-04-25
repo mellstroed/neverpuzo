@@ -11,7 +11,6 @@
 - Font selection
 
 ### Supported Cheats
-- **Clarity** - Cool movement cheat
 - **Kamidere** - Fast and stable
 - **NeverLose** - Full server support, lua fix, configs
 - **Ev0lve** - Old discontinued cheat

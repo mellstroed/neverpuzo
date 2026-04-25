@@ -7,7 +7,7 @@
 - Multi-cheat support for CS:GO
 - Auto-download and injection system
 - Language switching (RU/EN)
-- Theme customization (Default, Phosphor, Blood, Ice, Mono)
+- Theme customization (you can choose it yourself, as there is a color palette and a HEX code)
 - Font selection
 
 ### Supported Cheats

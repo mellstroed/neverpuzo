@@ -1,35 +1,5 @@
 [
   {
-    "Name": "ArcticTech",
-    "Game": "csgo",
-    "Description": "какая то Арктиктех",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/arctictech/ArcticTech.zip",
-    "FileName": "customflow.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctictech.png"
-  },
-  {
-    "Name": "customflow",
-    "Game": "csgo",
-    "Description": "переделка airflow",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/customflow/customflow.zip",
-    "FileName": "customflow.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/airflow.png"
-  },
-  {
-    "Name": "aimware",
-    "Game": "csgo",
-    "Description": "хуйня под кс2 но раньше под ксго в 2019 был норм",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/aimware/aimware.zip",
-    "FileName": "aimware.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/aimware.png"
-  },
-  {
     "Name": "kamidere",
     "Game": "csgo",
     "Description": "Крутой мувмент чит",

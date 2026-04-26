@@ -1,5 +1,15 @@
 [
- {
+   {
+    "Name": "arctictech",
+    "Game": "csgo",
+    "Description": "пойдёт, (но в английском переводе я написал что говно)",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/aimware/aimware.zip",
+    "FileName": "arctictech.zip",
+    "ExePath": "",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctictech.png"
+  },
+  {
     "Name": "aimware",
     "Game": "csgo",
     "Description": "хуета в кс2, в ксго тоже",

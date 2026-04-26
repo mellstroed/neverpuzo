@@ -6,7 +6,7 @@
     "GameId": "4465480:csgo",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/lobotomy/lobotomy.zip",
     "FileName": "lobotomy.zip",
-    "ExePath": "injector.dll",
+    "ExePath": "lobotomy.dll",
     "IconUrl": ""
   },
   {

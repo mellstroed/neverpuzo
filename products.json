@@ -1,4 +1,14 @@
 [
+ {
+    "Name": "lobotomy",
+    "Game": "csgo",
+    "Description": "хуета в кс2, в ксго тоже",
+    "GameId": "4465480:csgo",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/aimware/aimware.zip",
+    "FileName": "lobotomy.zip",
+    "ExePath": "",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/aimware.png"
+  },
   {
     "Name": "lobotomy",
     "Game": "csgo",

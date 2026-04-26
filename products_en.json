@@ -1,35 +1,5 @@
 [
   {
-    "Name": "ArcticTech",
-    "Game": "csgo",
-    "Description": "some kind of Arctic Tech",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/arctictech/ArcticTech.zip",
-    "FileName": "customflow.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctictech.png"
-  },
-  {
-    "Name": "customflow",
-    "Game": "csgo",
-    "Description": "redesigning airflow",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/customflow/customflow.zip",
-    "FileName": "customflow.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/airflow.png"
-  },
-  {
-    "Name": "aimware",
-    "Game": "csgo",
-    "Description": "shit for cs2, but it used to be normal for csgo in 2019",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/aimware/aimware.zip",
-    "FileName": "aimware.zip",
-    "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/aimware.png"
-  },
-  {
     "Name": "kamidere",
     "Game": "csgo",
     "Description": "Cool movement cheat",

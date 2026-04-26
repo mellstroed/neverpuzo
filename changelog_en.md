@@ -1,6 +1,6 @@
 # Unfl4gg3d Changelog
 
-## Version 1.3.0 - UI Overhaul
+## Version 1.3.5 - UI Overhaul
 Release Date: April 2026
 
 ### New
@@ -15,7 +15,7 @@ Release Date: April 2026
 - CRT scanline overlay
 - Smooth scroll on all panels
 - Automatic NEVERLOSE logo change to "unfl4gg3d" after injection
-- Built-in DLL injector (works when external injector is missing)
+- Built-in DLL injector with Manual Mapping and LoadLibrary methods support
 
 ### Fixed
 - Custom accent color persists across theme switches

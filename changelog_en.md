@@ -1,6 +1,6 @@
 # Unfl4gg3d Changelog
 
-## Version 1.0.0 - Initial Release
+## Version 1.2.0 - Bug fixes, adding new features, removing unnecessary features
 **Release Date:** April 2026
 
 ### Features
@@ -9,6 +9,7 @@
 - Language switching (RU/EN)
 - Theme customization (you can choose it yourself, as there is a color palette and a HEX code)
 - Font selection
+- You can choose a white theme, the theme is immediately set depending on the theme on the computer, the themes are saved.
 
 ### Supported Cheats
 - **NeverLose** - Full server support, lua fix, configs
@@ -34,8 +35,6 @@
 
 ### Upcoming Features
 - More cheat support
-- Performance improvements
-- New themes
 
 
 

@@ -1,43 +1,64 @@
 # Unfl4gg3d Changelog
 
-## Version 1.2.0 - Bug fixes, adding new features, removing unnecessary features
-**Release Date:** April 2026
+## Version 1.3.0 - UI Overhaul
+Release Date: April 2026
 
-### Features
-- Multi-cheat support for CS:GO
-- Auto-download and injection system
-- Language switching (RU/EN)
-- Theme customization (you can choose it yourself, as there is a color palette and a HEX code)
-- Font selection
-- You can choose a white theme, the theme is immediately set depending on the theme on the computer, the themes are saved.
+### New
+- Dark / Light theme with auto Windows system-theme detection
+- Custom accent color picker (full HSV + HEX input)
+- Font picker: Segoe UI, Arturito, Moyenage, Pixeloid, Google Sans
+- Snow with theme-aware flake colors (white / black)
+- Drag & drop cheat reorder with persistent save
+- Inject history: last inject label + per-cheat counter
+- Language switcher RU / EN with live reload
+- Typewriter title animation with glitch effect
+- CRT scanline overlay
+- Smooth scroll on all panels
+- Automatic NEVERLOSE logo change to "unfl4gg3d" after injection
+- Built-in DLL injector (works when external injector is missing)
+
+### Fixed
+- Custom accent color persists across theme switches
+- Theme auto-detected from Windows registry on first launch
+- Products reload correctly on language switch
+
+---
 
 ### Supported Cheats
-- **NeverLose** - Full server support, lua fix, configs
-- **Ev0lve** - Old discontinued cheat
-- **Primordial** - Beautiful cheat
-- **Legendware** - Legendary paste
-- **GameSense** - $40 invite
-- **OneTap** - onetap
-- **Fatality (siniy)** - blue fatality, has brothers: red, pink
-- **bob** - skebob.vip
-- **FURRYWARE** - furry stuff
-- **Havoc** - defensive flicks
-- **sosality** - brother of blue and red fatality
-- **vivo 2.5** - vivo x300 pro (wave)
-- **spermaware** - raze paste
-- **naval** - alexei navalny
+- NeverLose - Full server support, lua fixes, configs
+- Ev0lve - Classic closed cheat
+- Primordial - Clean cheat
+- Legendware - Legendary paste
+- GameSense - $40 invite
+- OneTap - Quick tap
+- Fatality (blue) - Blue fatality, has red and pink brothers
+- bob - skabob.vip
+- FURRYWARE - furry stuff
+- Havoc - defensive flicks
+- sosality - sibling of blue/red fatality
+- vivo 2.5 - vivo x300 pro (wave)
+- spermaware - raze paste
+- naval - alexey navalny
 
 ### Credits
-**Made by:** mellstroed  
-**GitHub:** github.com/mellstroed/neverpuzo  
-**Discord:** soufiw__
-**Support:** soufiw__
+Creator: mellstroed
+GitHub: github.com/mellstroed/neverpuzo
+Discord: soufiw__
+Support: soufiw__
 
-### Upcoming Features
-- More cheat support
+### Roadmap
+- Support for more cheats
+- Performance improvements
+- New themes
 
 
 
 
 
-PRESS SOUFI!!!!!!!!!!!
+
+
+
+
+
+PRESS halal!!!!!!!
+PRESS soufi!!!!!!!

@@ -1,184 +1,194 @@
 [
-    {
-    "Name": "arctictech",
-    "Game": "csgo",
-    "Description": "govno",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/arctictech/arctictech.zip",
-    "FileName": "arctictech.zip",
-    "ExePath": "",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctictech.png"
-  },
   {
-    "Name": "aimware",
-    "Game": "csgo",
-    "Description": "xyeta v cs2, i v csgo toshe",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/aimware/aimware.zip",
-    "FileName": "lobotomy.zip",
-    "ExePath": "",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/aimware.png"
-  },
-  {
-    "Name": "lobotomy",
-    "Game": "csgo",
-    "Description": "xyina, a ne movement cheat",
-    "GameId": "4465480:csgo",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/lobotomy/lobotomy.zip",
-    "FileName": "lobotomy.zip",
-    "ExePath": "",
-    "IconUrl": ""
+    "Name": "clarity",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Lightweight and fast cheat for CS:GO",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/clarity/clarity.zip",
+    "FileName": "clarity.zip",
+    "ExePath": "injector.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/clarity.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "kamidere",
-    "Game": "csgo",
-    "Description": "Cool movement cheat",
-    "GameId": "4465480:csgo",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Advanced cheat with unique interface",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/Kamidere/kamidere.zip",
     "FileName": "kamidere.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/kamidere.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/kamidere.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "neverlose",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "cool sinaya pasta kotoraya missaet postoyanno v correction",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Premium cheat with full server support, lua fixes and configs",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/neverlose/123.1.zip",
     "FileName": "123.1.zip",
     "ExePath": "neverlose-server.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/neverlose.png",
-    "Type": "neverlose"
+    "Type": "neverlose",
+    "IsPremium": true
   },
   {
     "Name": "ev0lve",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "El0lve - volvo",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Powerful legit cheat with advanced features",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/ev0/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png",
+    "Type": "standard",
+    "IsPremium": true
   },
   {
     "Name": "primordial",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "beatiful cheat on cool visuals",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Beautiful interface with advanced features",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/primordial/prim.zip",
     "FileName": "prim.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png",
+    "Type": "standard",
+    "IsPremium": true
   },
   {
     "Name": "legendware",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "Pasta ot lidosira",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Legendary rage cheat with rich functionality",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/legendware/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png",
+    "Type": "standard",
+    "IsPremium": true
   },
   {
     "Name": "gamesense",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "green pasta on 40k$",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Powerful legit and rage cheat, $40 invite",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/gamesense/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png",
+    "Type": "standard",
+    "IsPremium": true
   },
   {
     "Name": "onetap",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "Vontap v3",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Onetap v3 rage cheat",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/onetap/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png",
+    "Type": "standard",
+    "IsPremium": false
   },
-
   {
     "Name": "fatality (siniy)",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "sinaya pasta fatality",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Blue fatality (has red and pink brothers)",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/fatalitysiniy/ft.zip",
     "FileName": "ft.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png",
+    "Type": "standard",
+    "IsPremium": true
   },
   {
     "Name": "bob",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "just add the ske to the beginning",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Simple and effective cheat",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/bob/bob.zip",
     "FileName": "bob.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/bob.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/bob.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "FURRYWARE",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "furryatina",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Unique cheat with unusual design",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/furryware/furryware.zip",
     "FileName": "furryware.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/furryware.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/furryware.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "Havoc",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "pasta gamasensa",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Aggressive rage cheat",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/havoc/havoc.zip",
     "FileName": "havoc.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/havoc.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/havoc.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "sosality",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "krutaya purple pasta fatality",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Social cheat with integration",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/sosality/sosality.zip",
     "FileName": "sosality.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/sosality.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/sosality.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
-    "Name": "vivo 2.5",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "vivo x500 pro, horoshaya pasta legendwara",
+    "Name": "vivo",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Live and active cheat",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/Vivo/vivo.zip",
     "FileName": "vivo.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/vivo.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/vivo.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "spermaware",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "pasta raze ( ratera )",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Experimental cheat",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/spermaware/spermaware.zip",
     "FileName": "spermaware.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/spermaware.png"
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/spermaware.png",
+    "Type": "standard",
+    "IsPremium": false
   },
   {
     "Name": "naval",
-    "Game": "csgo",
-    "GameId": "4465480:csgo",
-    "Description": "navalnii sidit",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "csgo",
+    "Description": "Naval cheat with smooth features",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/naval/naval.zip",
     "FileName": "naval.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/naval.png"
-  }
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/naval.png",
+    "Type": "standard",
+    "IsPremium": false
+  },
 ]

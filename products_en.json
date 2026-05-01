@@ -30,7 +30,7 @@
     "Description": "Premium cheat with full server support, lua fixes and configs",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/neverlose/123.1.zip",
     "FileName": "123.1.zip",
-    "ExePath": "neverlose-server.exe",
+    "ExePath": "Loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/neverlose.png",
     "Type": "neverlose",
     "IsPremium": true

@@ -1,6 +1,7 @@
 [
   {
     "Name": "clarity",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "мувмент чит ( паста )",
@@ -13,6 +14,7 @@
   },
   {
     "Name": "kamidere",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Продвинутый чит с уникальным интерфейсом",
@@ -25,6 +27,7 @@
   },
   {
     "Name": "neverlose",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Премиум чит с полной поддержкой сервера, фикс луашек и конфигов",
@@ -37,6 +40,7 @@
   },
   {
     "Name": "ev0lve",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Мощный легит чит с продвинутыми функциями",
@@ -49,6 +53,7 @@
   },
   {
     "Name": "primordial",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Красивый интерфейс и продвинутые функции",
@@ -61,6 +66,7 @@
   },
   {
     "Name": "legendware",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Легендарный рейдж чит с богатым функционалом",
@@ -73,6 +79,7 @@
   },
   {
     "Name": "gamesense",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Мощный легит и рейдж чит, инвайт за 40 баксов",
@@ -85,6 +92,7 @@
   },
   {
     "Name": "onetap",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Воньтап v3",
@@ -97,6 +105,7 @@
   },
   {
     "Name": "fatality (siniy)",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Синий фаталити (есть брат красный, розовый)",
@@ -109,6 +118,7 @@
   },
   {
     "Name": "bob",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Простой и эффективный чит",
@@ -121,6 +131,7 @@
   },
   {
     "Name": "FURRYWARE",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Уникальный чит с необычным дизайном",
@@ -133,6 +144,7 @@
   },
   {
     "Name": "Havoc",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Агрессивный рейдж чит",
@@ -145,6 +157,7 @@
   },
   {
     "Name": "sosality",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Социальный чит с интеграцией",
@@ -157,6 +170,7 @@
   },
   {
     "Name": "vivo",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Живой и активный чит",
@@ -169,6 +183,7 @@
   },
   {
     "Name": "spermaware",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Экспериментальный чит",
@@ -181,6 +196,7 @@
   },
   {
     "Name": "naval",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "4465480:csgo",
     "Description": "Морской чит с плавными функциями",

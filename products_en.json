@@ -45,7 +45,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png",
     "Type": "standard",
-    "IsPremium": true
+    "IsPremium": false
   },
   {
     "Name": "primordial",
@@ -105,7 +105,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png",
     "Type": "standard",
-    "IsPremium": true
+    "IsPremium": false
   },
   {
     "Name": "bob",

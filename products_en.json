@@ -61,7 +61,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png",
     "Type": "standard",
-    "IsPremium": true
+    "IsPremium": false
   },
   {
     "Name": "legendware",
@@ -74,7 +74,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png",
     "Type": "standard",
-    "IsPremium": true
+    "IsPremium": false
   },
   {
     "Name": "gamesense",

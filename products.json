@@ -216,6 +216,7 @@
   "FileName": "",
   "ExePath": "",
   "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
+  "HowToUse": "TriggerBot:\nFabric(1.21.1, 1.21.4, 1.21.8, 1.21.11) ; вкл/выкл: R | add/del friend - колесо мыши"
   "Type": "minecraft",
   "IsPremium": false,
   "isnew": true,
@@ -229,6 +230,7 @@
   "FileName": "",
   "ExePath": "",
   "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
+  "HowToUse": "GlowESP:\n(1.16.5, 1.17.1, 1.20.1, 1.21.1) | on/off: J, exit: DELETE\n🩸Обязательно скачайте fabric-api🩸\nВыберите подходящую версию мода и закиньте в папку mods\nЗапускаете игру, при заходе на сервер жмете J"
   "Type": "minecraft",
   "IsPremium": false,
   "isnew": true,
@@ -242,6 +244,7 @@
   "FileName": "",
   "ExePath": "",
   "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
+  "HowToUse": "Hitbox:\nI - увеличить | R - сбросить\nВ настройках можно перебиндить"
   "Type": "minecraft",
   "IsPremium": false,
   "isnew": true,

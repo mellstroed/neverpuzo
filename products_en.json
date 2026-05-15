@@ -1,5 +1,33 @@
 [
   {
+    "Name": "ArcticTech",
+    "Version": "Release",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "4465480:csgo",
+    "Description": "Something in between",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/arctictech/arctictech.zip",
+    "FileName": "airflow.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctech.png",
+    "Type": "standard",
+    "IsPremium": false
+    "IsNew": true
+  },
+  {
+    "Name": "airflow",
+    "Version": "Release",
+    "Game": "Counter-Strike: Global Offensive",
+    "GameId": "4465480:csgo",
+    "Description": "50/50 cheat",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/airflow/airflow.zip",
+    "FileName": "airflow.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/airflow.png",
+    "Type": "standard",
+    "IsPremium": false
+    "IsNew": true
+  },
+  {
     "Name": "clarity",
     "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",

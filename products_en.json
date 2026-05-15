@@ -10,7 +10,7 @@
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctech.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": true
   },
   {
@@ -24,7 +24,7 @@
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/airflow.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": true
   },
   {

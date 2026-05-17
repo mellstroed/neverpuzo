@@ -38,7 +38,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -52,7 +52,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/kamidere.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -66,7 +66,7 @@
     "ExePath": "Loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/neverlose.png",
     "Type": "neverlose",
-    "IsPremium": true
+    "IsPremium": true,
     "IsNew": false
   },
   {
@@ -80,7 +80,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -93,7 +93,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -107,7 +107,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -121,7 +121,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png",
     "Type": "standard",
-    "IsPremium": true
+    "IsPremium": true,
     "IsNew": false
   },
   {
@@ -135,7 +135,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -149,7 +149,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -163,7 +163,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/bob.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -177,7 +177,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/furryware.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -191,7 +191,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/havoc.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -205,7 +205,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/sosality.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -219,7 +219,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/vivo.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -233,7 +233,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/spermaware.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
   {
@@ -247,7 +247,7 @@
     "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/naval.png",
     "Type": "standard",
-    "IsPremium": false
+    "IsPremium": false,
     "IsNew": false
   },
 {
@@ -259,11 +259,11 @@
   "FileName": "",
   "ExePath": "",
   "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
-  "HowToUse": "TriggerBot:\nFabric(1.21.1, 1.21.4, 1.21.8, 1.21.11) ; on/off: R | add/del friend - mouse wheel"
+  "HowToUse": "TriggerBot:\nFabric(1.21.1, 1.21.4, 1.21.8, 1.21.11) ; on/off: R | add/del friend - mouse wheel",
   "Type": "minecraft",
   "IsPremium": false,
-  "isnew": true,
-   },
+  "IsNew": true
+},
 {
   "Name": "Glowesp (wallhack)",
   "Game": "Minecraft",
@@ -273,11 +273,11 @@
   "FileName": "",
   "ExePath": "",
   "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
-  "HowToUse": "nGlowESP:\n(1.16.5, 1.17.1, 1.20.1, 1.21.1) | on/off: J, exit: DELETE\n🩸Be sure to download fabric-api🩸\nSelect the appropriate version of the mod and drop it in the mods folder\nLaunch the game, press J when joining the server"
-  "Type":  "minecraft",
+  "HowToUse": "GlowESP:\n(1.16.5, 1.17.1, 1.20.1, 1.21.1) | on/off: J, exit: DELETE\n🩸Be sure to download fabric-api🩸\nSelect the appropriate version of the mod and drop it in the mods folder\nLaunch the game, press J when joining the server",
+  "Type": "minecraft",
   "IsPremium": false,
-  "isnew": true,
-   },
+  "IsNew": true
+},
 {
   "Name": "Hitbox",
   "Game": "Minecraft",
@@ -287,9 +287,9 @@
   "FileName": "",
   "ExePath": "",
   "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
-  "HowToUse": "Hitbox:\nI - increase | R - reset\nYou can rebind it in the settings"
+  "HowToUse": "Hitbox:\nI - increase | R - reset\nYou can rebind it in the settings",
   "Type": "minecraft",
   "IsPremium": false,
-  "isnew": true,
-  }
-  ]
+  "IsNew": true
+}
+]

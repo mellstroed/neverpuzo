@@ -1,21 +1,15 @@
 # Unfl4gg3d Changelog
 
-## Version 1.3.5 - UI Overhaul
+## Version 2.0.0 - Loader redesign
 Release Date: April 2026
 
 ### New
-- Dark / Light theme with auto Windows system-theme detection
-- Custom accent color picker (full HSV + HEX input)
-- Font picker: Segoe UI, Arturito, Moyenage, Pixeloid, Google Sans
-- Snow with theme-aware flake colors (white / black)
-- Drag & drop cheat reorder with persistent save
-- Inject history: last inject label + per-cheat counter
-- Language switcher RU / EN with live reload
-- Typewriter title animation with glitch effect
-- CRT scanline overlay
-- Smooth scroll on all panels
-- Automatic NEVERLOSE logo change to "unfl4gg3d" after injection
-- Built-in DLL injector (works when external injector is missing)
+- New Design  
+- Added saving themes and importing and exporting themes   
+- Updated functionality  
+- Added support for minecraft cheats  
+- Added support for selecting a folder of mods for cheats  
+- Added the developer's social network
 
 ### Fixed
 - Custom accent color persists across theme switches
@@ -39,6 +33,8 @@ Release Date: April 2026
 - vivo 2.5 - vivo x300 pro (wave)
 - spermaware - raze paste
 - naval - alexey navalny
+- Airflow - best free cheat
+- ArcticTech - 50/50
 
 ### Credits
 Creator: mellstroed
@@ -47,10 +43,7 @@ Discord: soufiw__
 Support: soufiw__
 
 ### Roadmap
-- Support for more cheats
-- Performance improvements
-- New themes
-
+- Support more cheats for other games
 
 
 

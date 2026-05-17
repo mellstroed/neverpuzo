@@ -85,6 +85,7 @@
   },
   {
     "Name": "primordial",
+    "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "csgo",
     "Description": "Beautiful interface with advanced features",
@@ -252,6 +253,7 @@
   },
 {
   "Name": "Triggerbot",
+  "Version": "Release",
   "Game": "Minecraft",
   "GameId": "minecraft",
   "Description": "Triggerbot on minecraft",
@@ -266,6 +268,7 @@
 },
 {
   "Name": "Glowesp (wallhack)",
+  "Version": "Release",
   "Game": "Minecraft",
   "GameId": "minecraft",
   "Description": "wallhack on minecraft",
@@ -280,6 +283,7 @@
 },
 {
   "Name": "Hitbox",
+  "Version": "Release",
   "Game": "Minecraft",
   "GameId": "minecraft",
   "Description": "Extended hitboxes for Minecraft",

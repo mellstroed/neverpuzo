@@ -39,6 +39,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "kamidere",  
@@ -52,6 +53,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/kamidere.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "neverlose",  
@@ -65,6 +67,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/neverlose.png",
     "Type": "neverlose",
     "IsPremium": true
+    "IsNew": false
   },
   {
     "Name": "ev0lve",
@@ -78,6 +81,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ev0.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "primordial",
@@ -90,6 +94,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/prim.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "legendware",
@@ -103,6 +108,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/lw.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "gamesense",
@@ -116,6 +122,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/gs.png",
     "Type": "standard",
     "IsPremium": true
+    "IsNew": false
   },
   {
     "Name": "onetap",
@@ -129,6 +136,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ot.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "fatality (siniy)",
@@ -142,6 +150,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/ft.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "bob",
@@ -155,6 +164,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/bob.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "FURRYWARE",
@@ -168,6 +178,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/furryware.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "Havoc",
@@ -181,6 +192,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/havoc.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "sosality",
@@ -194,6 +206,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/sosality.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "vivo",
@@ -207,6 +220,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/vivo.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "spermaware",
@@ -220,6 +234,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/spermaware.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
   {
     "Name": "naval",
@@ -233,6 +248,7 @@
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/naval.png",
     "Type": "standard",
     "IsPremium": false
+    "IsNew": false
   },
 {
   "Name": "Triggerbot",

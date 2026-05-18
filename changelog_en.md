@@ -44,14 +44,3 @@ Support: soufiw__
 
 ### Roadmap
 - Support more cheats for other games
-
-
-
-
-
-
-
-
-
-PRESS halal!!!!!!!
-PRESS soufi!!!!!!!

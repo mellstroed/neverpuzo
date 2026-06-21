@@ -251,49 +251,4 @@
     "IsPremium": false,
     "IsNew": false
   },
-{
-  "Name": "Triggerbot",
-  "Version": "Release",
-  "Game": "Minecraft",
-  "GameId": "minecraft",
-  "Description": "Triggerbot on minecraft",
-  "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/mc/Tbot.dll",
-  "FileName": "",
-  "ExePath": "",
-  "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
-  "HowToUse": "TriggerBot:\nFabric(1.21.1, 1.21.4, 1.21.8, 1.21.11) ; on/off: R | add/del friend - mouse wheel",
-  "Type": "minecraft",
-  "IsPremium": false,
-  "IsNew": true
-},
-{
-  "Name": "Glowesp (wallhack)",
-  "Version": "Release",
-  "Game": "Minecraft",
-  "GameId": "minecraft",
-  "Description": "wallhack on minecraft",
-  "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/mc/glowesp.jar",
-  "FileName": "",
-  "ExePath": "",
-  "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
-  "HowToUse": "GlowESP:\n(1.16.5, 1.17.1, 1.20.1, 1.21.1) | on/off: J, exit: DELETE\n🩸Be sure to download fabric-api🩸\nSelect the appropriate version of the mod and drop it in the mods folder\nLaunch the game, press J when joining the server",
-  "Type": "minecraft",
-  "IsPremium": false,
-  "IsNew": true
-},
-{
-  "Name": "Hitbox",
-  "Version": "Release",
-  "Game": "Minecraft",
-  "GameId": "minecraft",
-  "Description": "Extended hitboxes for Minecraft",
-  "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/mc/hitbox.jar",
-  "FileName": "",
-  "ExePath": "",
-  "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/placeholder.png",
-  "HowToUse": "Hitbox:\nI - increase | R - reset\nYou can rebind it in the settings",
-  "Type": "minecraft",
-  "IsPremium": false,
-  "IsNew": true
-}
 ]

@@ -6,7 +6,7 @@
     "GameId": "4465480:csgo",
     "Description": "Something in between",
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/arctictech/arctictech.zip",
-    "FileName": "airflow.zip",
+    "FileName": "arctictech.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/arctech.png",
     "Type": "standard",
@@ -42,7 +42,7 @@
     "IsNew": false
   },
   {
-    "Name": "kamidere",  
+    "Name": "kamidere",
     "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "csgo",
@@ -56,7 +56,7 @@
     "IsNew": false
   },
   {
-    "Name": "neverlose",  
+    "Name": "neverlose",
     "Version": "Release",
     "Game": "Counter-Strike: Global Offensive",
     "GameId": "csgo",
@@ -251,14 +251,18 @@
     "IsPremium": false,
     "IsNew": false
   },
-   {
-    "Name": "ddlc",
+  {
+    "Name": "Doki Doki Literature Club!",
     "Version": "Release",
     "Game": "Doki Doki Literature Club!",
     "GameId": "ddlc",
-    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/ddlc/ddlc-win.zip,
-    "FileName": "ddlc-win.zip",
-    "ExePath": "DDLC.exe",
-  },
-  {
+    "Description": "A heartwarming story about writing poetry with your friends",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/ddlc/ddlc.zip",
+    "FileName": "ddlc.zip",
+    "ExePath": "ddlc.exe",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/doki.png",
+    "Type": "ddlc",
+    "IsPremium": false,
+    "IsNew": true
   }
+]

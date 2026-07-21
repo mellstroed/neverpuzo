@@ -251,4 +251,14 @@
     "IsPremium": false,
     "IsNew": false
   },
-]
+   {
+    "Name": "ddlc",
+    "Version": "Release",
+    "Game": "Doki Doki Literature Club!",
+    "GameId": "ddlc",
+    "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/ddlc/ddlc-win.zip,
+    "FileName": "ddlc-win.zip",
+    "ExePath": "DDLC.exe",
+  },
+  {
+  }

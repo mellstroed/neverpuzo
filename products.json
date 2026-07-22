@@ -162,7 +162,7 @@
     "DownloadUrl": "https://github.com/mellstroed/neverpuzo/releases/download/bob/bob.zip",
     "FileName": "bob.zip",
     "ExePath": "injector.exe",
-    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/bob.png",
+    "IconUrl": "https://raw.githubusercontent.com/mellstroed/neverpuzo/main/png/skebob.png",
     "Type": "standard",
     "IsPremium": false,
     "IsNew": false

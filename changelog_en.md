@@ -4,12 +4,9 @@
 Release Date: April 2026
 
 ### New
-- New Design  
-- Added saving themes and importing and exporting themes   
-- Updated functionality  
-- Added support for minecraft cheats  
-- Added support for selecting a folder of mods for cheats  
-- Added the developer's social network
+- New Design 
+- Updated functionality
+- Added Doki Doki Literature Club!
 
 ### Fixed
 - Custom accent color persists across theme switches
@@ -23,16 +20,11 @@ Release Date: April 2026
 - Ev0lve - Classic closed cheat
 - Primordial - Clean cheat
 - Legendware - Legendary paste
-- GameSense - $40 invite
+- GameSense - $400 invite
 - OneTap - Quick tap
 - Fatality (blue) - Blue fatality, has red and pink brothers
-- bob - skabob.vip
-- FURRYWARE - furry stuff
+- skebob - skebob.vip
 - Havoc - defensive flicks
-- sosality - sibling of blue/red fatality
-- vivo 2.5 - vivo x300 pro (wave)
-- spermaware - raze paste
-- naval - alexey navalny
 - Airflow - best free cheat
 - ArcticTech - 50/50
 
